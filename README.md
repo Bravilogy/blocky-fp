@@ -9,6 +9,6 @@ npm start
 # or yarn start
 ```
 
-`http://localhost:9100/` will open automatically on the blocky app.
+`http://localhost:9100/` will open up automatically.
 
-`yarn test` & `yarn test:watch` to run the unit tests on the terminal.
+`yarn test` & `yarn test:watch` to run unit tests.
